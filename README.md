@@ -1,32 +1,23 @@
-<!-- ====== MULKY - GLASSMORPH README (FULL ANIMATED) ====== -->
+<!-- ================== MULKY GLASS CYBER README ================== -->
 
 <p align="center">
-  <!-- Animated glass banner (generated or placeholder) -->
-  <img src="./assets/glass-banner.gif" alt="Mulky - Glass Banner" style="max-width:100%; border-radius:16px; box-shadow: 0 8px 30px rgba(0,0,0,0.6);"/>
-</p>
-
-<h1 align="center" style="margin-top:18px;">Mulky Malikul Dhaher</h1>
-<p align="center" style="margin-top:6px; color: #9CA3AF;">
-  Building structured Web & AI systems • Quant decision intelligence • Risk-aware execution
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1f4068,100:2c5364&height=220&section=header&text=Mulky%20Malikul%20Dhaher&fontSize=40&fontColor=00FFD1&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=600&color=00FFC2&center=true&vCenter=true&width=800&lines=System+over+hype.;Risk-aware+execution.;Process-driven+builder.;Solo+%E2%9A%A1+Focused+%C2%B7+Consistent" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=700&color=00FFD1&center=true&vCenter=true&width=900&lines=Web+Systems+Architect+in+Progress;AI+Agents+%7C+Quant+Decision+Intelligence;Structured+Execution+Over+Hype;Risk+Managed+Development;Solo+Builder+Mode+%E2%9A%A1" />
 </p>
 
 ---
 
-## ⚙️ Focus
-- **AI Agents & Multi-Agent Orchestration**  
-- **Quantitative Decision Intelligence** (strategy frameworks, backtest, execution infra)  
-- **Web Control Panels & Automation**  
-- System-first approach: **structure → risk control → repeatability**
+# 🧠 About Me
 
----
-
-## 🧩 Quick Info
-```text
-Email      : mulkymalikuldaher@email.com
-GitHub     : mulkymalikuldhrs
-Role       : Solo builder — open to serious collaborators
-Mindset    : Process > Hype. Discipline > Noise.
+```bash
+Name      : Mulky Malikul Dhaher
+Email     : mulkymalikuldaher@email.com
+GitHub    : mulkymalikuldhrs
+Focus     : Web Systems / AI Agents / Quant Frameworks
+Mode      : Solo Builder
+Principle : Structure > Noise
+Strategy  : Risk-aware execution
+Status    : Building long-term systems
