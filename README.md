@@ -1,63 +1,39 @@
-# ⚙️ Mulky Malikul Dhaher
+<h1 align="center">Mulky</h1>
+<p align="center">
+Building structured systems for Web, AI Agents, and Quant execution.
+</p>
 
-## 💫 About Me
-Developer building structured Web Systems, AI Agents, and Quant-driven decision intelligence tools.
-
-I focus on:
-- System architecture over shortcuts  
-- Risk management over gambling  
-- Repeatable execution over hype  
-
-Currently building solo.  
-Open to serious, aligned collaborators.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=System+over+hype.;Risk-aware+execution.;Process-driven+builder.;Solo.+Focused.+Consistent." />
+</p>
 
 ---
 
-## 🧠 Core Focus
-- AI Agents & Multi-Agent Systems  
-- Quantitative Strategy Frameworks  
-- Decision Intelligence Systems  
-- Automation & Execution Infrastructure  
-- Web-based control dashboards  
+## ⚙️ Focus
+- AI Agents & automation
+- Quant-style decision systems
+- Web-based control panels
+- Structured execution frameworks
 
 ---
 
-## 🚀 Current Projects
-- 🔹 AI Multi-Colony Ecosystem (multi-agent orchestration framework)  
-- 🔹 Quant Strategy Engine (risk-aware execution system)  
-- 🔹 Web-based AI Control Panel  
+## 📊 Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mulkymalikuldhrs&show_icons=true&theme=transparent&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulkymalikuldhrs&layout=compact&theme=transparent&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack (Growing & Focused)
-- Python
-- JavaScript
-- React / Next.js
-- Node.js
-- Supabase
-- REST APIs
-- Docker (learning phase)
-
----
-
-## 🌐 Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mulkymalikuldhr)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mulkymalikuldhr)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mulkymalikuldhr@mail.com)
-
----
-
-## 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=mulkymalikuldhrs&theme=dark&hide_border=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=mulkymalikuldhrs&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mulkymalikuldhrs&theme=dark&layout=compact&hide_border=true)
-
----
-
-## 🧭 Philosophy
-Build systems that compound.
-Eliminate noise.
-Think in probabilities.
-Execute with discipline.
-
----
+## 🌐 Connect
+<p align="center">
+  <a href="https://facebook.com/mulkymalikuldhr">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/mulkymalikuldhr">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:mulkymalikuldhr@mail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
