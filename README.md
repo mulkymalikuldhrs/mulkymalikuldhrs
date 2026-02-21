@@ -1,20 +1,32 @@
-<!-- ====== CYBER HEADER ====== -->
+<!-- ====== MULKY - GLASSMORPH README (FULL ANIMATED) ====== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mulky%20Malikul%20Dhaher&fontSize=35&fontColor=00ffcc&animation=fadeIn&fontAlignY=35" />
+  <!-- Animated glass banner (generated or placeholder) -->
+  <img src="./assets/glass-banner.gif" alt="Mulky - Glass Banner" style="max-width:100%; border-radius:16px; box-shadow: 0 8px 30px rgba(0,0,0,0.6);"/>
+</p>
+
+<h1 align="center" style="margin-top:18px;">Mulky Malikul Dhaher</h1>
+<p align="center" style="margin-top:6px; color: #9CA3AF;">
+  Building structured Web & AI systems • Quant decision intelligence • Risk-aware execution
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+Structured+AI+Systems;Quant+Decision+Intelligence;Process+Driven+Execution;Risk-Aware+Development;Solo+Builder+Mode+Activated" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=600&color=00FFC2&center=true&vCenter=true&width=800&lines=System+over+hype.;Risk-aware+execution.;Process-driven+builder.;Solo+%E2%9A%A1+Focused+%C2%B7+Consistent" alt="typing" />
 </p>
 
 ---
 
-## 🧠 SYSTEM PROFILE
+## ⚙️ Focus
+- **AI Agents & Multi-Agent Orchestration**  
+- **Quantitative Decision Intelligence** (strategy frameworks, backtest, execution infra)  
+- **Web Control Panels & Automation**  
+- System-first approach: **structure → risk control → repeatability**
 
-```bash
-> Focus: Web Systems / AI Agents / Quant Frameworks
-> Mode: Solo Builder
-> Philosophy: Structure > Noise
-> Strategy: Risk Managed Execution
-> Status: Compounding
+---
+
+## 🧩 Quick Info
+```text
+Email      : mulkymalikuldaher@email.com
+GitHub     : mulkymalikuldhrs
+Role       : Solo builder — open to serious collaborators
+Mindset    : Process > Hype. Discipline > Noise.
