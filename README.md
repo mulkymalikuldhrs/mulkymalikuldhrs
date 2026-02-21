@@ -48,14 +48,35 @@
 
 ---
 
-## 📊 LIVE SIGNAL
+## 🛰 LIVE TERMINAL FEED
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mulkymalikuldhrs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulkymalikuldhrs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=600&color=00FFD1&center=true&vCenter=true&width=800&lines=System+Online...;Initializing+Agents...;Risk+Engine+Loaded...;Monitoring+Execution+Layer...;All+Systems+Operational."/>
 </p>
 
 ---
+
+## 🕒 LIVE CLOCK
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true"/>
+</p>
+
+---
+
+## 💬 RANDOM DEV QUOTE
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+## 👁 PROFILE SIGNAL
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mulkymalikuldhrs&label=Visitors&color=00FFD1&style=for-the-badge"/>
+</p>
 
 ## 📈 ACTIVITY GRAPH
 
